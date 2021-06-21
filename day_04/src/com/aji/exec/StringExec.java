@@ -100,5 +100,7 @@ public class StringExec {
         System.out.println("-------------");
         System.out.println(exec.getSameSubstring(s1, s2));
         //System.out.println(s1.indexOf(s2));
+        System.out.println("aa");
+        System.out.println("bb");
     }
 }
